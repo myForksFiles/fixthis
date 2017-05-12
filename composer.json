@@ -3,6 +3,7 @@
     "description": "$fix->this :-).",
     "keywords": ["laravel",   "fixthis" , "laravel5", "myforksfiles"],
     "license": "MIT",
+	"minimum-stability": "dev",
     "authors": [
         {
             "name": "myForksFiles",
@@ -22,6 +23,5 @@
         "branch-alias": {
             "dev-master": "0.1-dev"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
