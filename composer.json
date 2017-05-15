@@ -1,9 +1,9 @@
 {
     "name": "myforksfiles/fixthis",
+    "minimum-stability": "dev",
     "description": "$fix->this :-).",
     "keywords": ["laravel",   "fixthis" , "laravel5", "myforksfiles"],
     "license": "MIT",
-	"minimum-stability": "dev",
     "authors": [
         {
             "name": "myForksFiles",
