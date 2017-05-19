@@ -12,7 +12,7 @@ Fun with laravel
 Via Composer
 
 ```bash
-$ composer require myforksfiles/fixthis --dev
+$ composer require myforksfiles/fixthis dev-develop
 ```
 
 Then add the service provider in `config/app.php`:
